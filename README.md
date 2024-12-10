@@ -6,6 +6,6 @@ The data is from the UCI Machine Learning Repository and contains demographic an
 
 <b>EDA.ipnb</b> is the exploratory data analysis.
 
-<b>inferential_analysis.ipnb</b> interprets the data and explores the relationships betweeen the features and the target. 
+<b>Inferential analysis.ipnb</b> interprets the data and explores the relationships betweeen the features and the target. 
 
 <b>logreg.ipnb</b> builds the predictive model.
